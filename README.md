@@ -112,6 +112,8 @@ A[Full Dataset]
 
 ## 5️⃣ Statistical Summary
 
+## 5️⃣ Statistical Summary
+
 ```mermaid
 flowchart TD
 A[Dataset]
@@ -119,8 +121,7 @@ A[Dataset]
 --> C[Mean/Median/Std]
 --> D[Interpret Stats]
 ```
-
----
+  
 
 ## 6️⃣ Country-wise Bar Chart
 
